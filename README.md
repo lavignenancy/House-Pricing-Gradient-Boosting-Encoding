@@ -45,6 +45,7 @@ pip install pandas numpy scikit-learn xgboost
 jupyter lab house_prices.ipynb
 
 ## Results Summary
+
 Using One-Hot Encoding and Target Encoding with XGBoost provided lower cross-validation error compared to standard ordinal encoding. Key features influencing house prices include overall quality, ground living area square footage, and neighborhood.
 
 
